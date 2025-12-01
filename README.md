@@ -106,17 +106,25 @@ this is called "**data-driven polymorphism**"
     cd OOP
 3. **Navigate to the correct folder (if needed):**
      ```bash
-     cd FinalProj 
+     cd Clockmaker-sParadox
      ```
 4. **Compile the program:**
     ```bash
-   javac -d . src/main/*.java src/entity/*.java src/scene/*.java src/ui/*.java
+   javac -d . scr/Entity/*.java scr/main/*.java scr/scene/*.java scr/ui/*.java
     ```
 
 5. **Run the program:**
     ```bash
     java main.Main
     ```
+
+    
+## **Alternative method (if you have package declarations):**
+
+First check the package declaration in your Java files. For example, in `Main.java`, look for:
+```java
+package main;
+
 
 <h1> Sample Output</h1>
 
