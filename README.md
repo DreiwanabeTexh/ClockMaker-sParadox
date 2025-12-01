@@ -53,10 +53,19 @@ public void reduceDays(int days);
 * `Scene` hides title, narrative, and choices with getters only.<br/>
 
 
-<h1> 🧬 Inheritance</h1>
-inheritance is minimal because each class represents a distinct concept in the game. However, the structure still supports inheritance naturally, and the classes are organized in a way that would allow expansion through subclassing. <br/>
+The project implements a practical inheritance hierarchy where concrete classes extend an abstract base class. The Choice and Scene classes inherit directly from the abstract GameEntity class. This design provides three key benefits:. <br/>
 <br/>
-Right now, the project doesn't use inheritance directly, but the class design is structured so that inheritance can be added cleanly if the game grows more complex.
+
+1. Code Reuse – Both Choice and Scene inherit the name and description fields from GameEntity, eliminating duplication and adhering to the DRY (Don’t Repeat Yourself) principle. <br/>
+
+2. Enforced Structure – The abstract method display() in GameEntity establishes a contract that all subclasses must fulfill.
+
+    * Choice implements display() with simple console output.
+
+    * Scene implements display() using enhanced text effects from TextDisplayer.
+This ensures consistency across all game entities. <br/>
+
+3. Foundation for Extensibility – The inheritance hierarchy makes the system ready for expansion. New entity types such as Item, NPC, or Puzzle can be added by extending GameEntity, automatically gaining the common interface and behavior.
 
 <h1>✨ Polymorphism</h1>
 The code uses method-level polymorphism only indirectly.<br/>
