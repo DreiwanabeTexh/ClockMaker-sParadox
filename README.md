@@ -7,7 +7,7 @@ A time bending mystery where death is just the beginning </h3>
 <b> CS 1203 </b><br/>
 Buenavista, Christian Paolo M. <br/>
 Talagtag, Karl Andrei C. <br/>
-Villena, Kurt Andrei </p>
+Villena, Kurt Andrei C.</p>
 
 ## 🔥 Overview 🔥
 The Clockmaker’s Paradox is a psychological horror–mystery narrative game with strong elements of logical problem-solving, surreal exploration, and philosophical storytelling.
@@ -15,8 +15,8 @@ The Clockmaker’s Paradox is a psychological horror–mystery narrative game wi
 This project also demonstrates the practical use of Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, polymorphism, and abstraction. Additionally, it incorporates proper file handling for saving and loading progress, as well as a modular design structure to ensure clean, maintainable, and scalable code.<br/>
 
 ### 👤 Users can:
-❓   Make choices that can shape the story.<br/>
-⏳ Manage the 30-day countdown <br/> 
+❓ Make choices that can shape the story.<br/>
+⏳ Manage the 10-day countdown <br/> 
 🧩 Solve logical and psychological challenges <br/>
 💀 Experience Consequences (Die, Loop, & Progress) <br/>
 💾 Save and load their Progress
@@ -72,26 +72,27 @@ this is called "**data-driven polymorphism**"
 
 ## | Project Structure |
 ```
-📂 images
-├── 📷 Buenavista.jpg
-├── 📷 ClockmakerParadox.jpg
-├── 📷 Talagtag.jpg
-└── 📷 Villena.jpg
-📂 scr
-└── 📂 Entity
-    ├── ☕ GameEntity.java          
-    └── ☕ Player.java
-└── 📂 main
-    ├── ☕ Choice.java
-    ├── ☕ GameEngine.java
-    └── ☕ Main.java
-└── 📂 resources/audio
-    └── 📄 readme.md
-└── 📂 scene
-    ├── ☕ Scene.java
-    └── ☕ SceneLoader.java
-└── 📂 ui
-    └── ☕ TextDisplayer.java 
+📂 \ClockMaker-sParadox
+├── 📂 images/
+│   ├── 📷 Buenavista.jpg
+│   ├── 📷 ClockmakerParadox.jpg
+│   ├── 📷 Talagtag.jpg
+│   └── 📷 Villena.jpg
+├── 📂 scr/
+│   ├── 📂 Entity/
+│   │   ├── ☕ GameEntity.java
+│   │   └── ☕ Player.java
+│   ├── 📂 main/
+│   │   ├── ☕ Choice.java
+│   │   ├── ☕ GameEngine.java
+│   │   └── ☕ Main.java
+│   ├── 📂 resources/audio/
+│   │   └── 🔊 bg.wav
+│   ├── 📂 scene/
+│   │   ├── ☕ Scene.java
+│   │   └── ☕ SceneLoader.java
+│   └── 📂 ui/
+│       └── ☕ TextDisplayer.java
 └── 📄 README.md
   
 ```
@@ -189,7 +190,8 @@ Enter choice (1-3) or 'music':
     <th> Role </th>
 </tr>
 <tr>
-    <td><strong>Karl Andrei C. Talagtag</strong> <br/>
+    <td><img src="images/Buenavista.jpg" width="100" height="100"> </td>
+    <td><strong>Christian Paolo V. Buenavista</strong> <br/>
     <a href="https://github.com/PaoloBuenavista" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=black" alt="PaoloBuenavista's Github">
         </a>
@@ -197,16 +199,16 @@ Enter choice (1-3) or 'music':
 </tr>
 
 <tr>
-    <td><img src="static/Talagtag.jpg" width="100" height="100"> </td>
+    <td><img src="images/Talagtag.jpg" width="100" height="100"> </td>
     <td><strong>Karl Andrei C. Talagtag</strong> <br/>
     <a href="https://github.com/DreiwanabeTexh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="DreiwanabeTexh's Github">
         </a>
     </td>
-    <td>Projcet Leader/ File Handling Specialist</td>
+    <td>Project Leader/ File Handling Specialist</td>
 </tr>
 <tr>
-    <td><img src="static/Villena.jpg" width="100" height="100"> </td>
+    <td><img src="images/Villena.jpg" width="100" height="100"> </td>
     <td><strong>Kurt Andrei C. Villena</strong> <br/>
     <a href="https://github.com/andreiiiizz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="andreiiiizz's Github">
