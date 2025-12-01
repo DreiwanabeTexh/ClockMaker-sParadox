@@ -245,7 +245,6 @@ We also thank each team member
 for their collaboration, hard work, and commitment
 throughout this project.
 
-⏱️ ──────────────────────────────────────────── ⏱️
 
 <em>"Time is the most valuable resource we have."</em>
 
