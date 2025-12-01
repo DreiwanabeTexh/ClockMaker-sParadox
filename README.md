@@ -231,16 +231,5 @@ Enter choice (1-3) or 'music':
 </tr>
 </table>
 
-<h2 align="center">🕗 ⏳ 8. Acknowledgements ⏳ 🕗</h2><div align="center">
-We extend our sincere gratitude to Ms. Fatima Marie Agdon,
-our Object-Oriented Programming Instructor,
-for her guidance, expertise, and dedication in teaching us
-OOP principles and best practices.
+![Uploading image.png…]()
 
-⏱️ ──────────────────────────────────────────── ⏱️
-
-We also thank each team member
-for their collaboration, hard work, and commitment
-throughout this project.
-
-</div>
