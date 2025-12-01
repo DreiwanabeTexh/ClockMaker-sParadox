@@ -1,5 +1,5 @@
 <h1 align = "center"> ⏱ The Clockmaker's Paradox ⏱ </h1>
-<img src = "static/ClockmakerParadox.jpg" width ="100%">
+<img src = "images/ClockmakerParadox.jpg" width ="100%">
 
 <h2 align = "center"> 
 A time bending mystery where death is just the beginning </h3>
