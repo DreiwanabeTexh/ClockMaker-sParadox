@@ -95,9 +95,8 @@ this is called "**data-driven polymorphism**"
 │       └── ☕ TextDisplayer.java
 └── 📄 README.md
   
-## **How to Run the Program**
-
-### **Method 1: Standard Compilation**
+```
+## **Method1: How to Run the Program**
 1. **Clone the repository:**
      ```bash
      git clone https://github.com/DreiwanabeTexh/OOP.git
@@ -105,32 +104,32 @@ this is called "**data-driven polymorphism**"
 2. **Go to the project directory:**
     ```bash
     cd OOP
-    ```
 3. **Navigate to the correct folder (if needed):**
      ```bash
      cd Clockmaker-sParadox
      ```
 4. **Compile the program:**
     ```bash
-    javac -d . scr/Entity/*.java scr/main/*.java scr/scene/*.java scr/ui/*.java
+   javac -d . scr/Entity/*.java scr/main/*.java scr/scene/*.java scr/ui/*.java
     ```
+
 5. **Run the program:**
     ```bash
     java main.Main
     ```
-
-### **Method 2: Using Wildcard (Recommended)**
-```bash
-# Navigate to project root
-cd OOP/Clockmaker-sParadox
-
-# Compile all Java files at once
-javac -d . scr/**/*.java
-
-# Run the program
-java main.Main
-
-
+## **Method2: Using Wildcard (Recommended)**
+1. **Navigate to project root:**
+    ```bash
+    cd OOP/Clockmaker-sParadox
+    ```
+2. **Compile all Java files at once:**
+   ```bash
+      javac -d . scr/**/*.java
+   ```
+3. **Run the program:**
+   ```bash
+    java main.Main
+   ```
 
 <h1> Sample Output</h1>
 
