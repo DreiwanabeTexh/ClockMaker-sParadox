@@ -231,23 +231,20 @@ Enter choice (1-3) or 'music':
 </tr>
 </table>
 
-<h2 align="center"> ⏱️ Acknowledgements ⏱️ </h2>
+<h2 align="center">🕗 ⏳ 8. Acknowledgements ⏳ 🕗</h2>
 
-<p align="center">
-We extend our sincere gratitude to <strong>Ms. Fatima Marie Agdon</strong>, our Object-Oriented Programming instructor,<br/>
+<div align="center">
+We extend our sincere gratitude to <strong>Ms. Fatima Marie Agdon</strong>,<br/>
+our Object-Oriented Programming instructor,<br/>
 for her invaluable guidance, expertise, and mentorship throughout this project.
-</p>
 
-<p align="center">
-Her instruction in OOP principles and best practices has been instrumental in shaping<br/>
-this project and our development as programmers.
-</p>
+⏱️ ──────────────────────────────────────────── ⏱️
 
-<p align="center">
 We also acknowledge the collaborative efforts of our team members,<br/>
-whose dedication, creativity, and commitment brought <em>The Clockmaker's Paradox</em> to life.
-</p>
+whose dedication, creativity, and commitment brought<br/>
+<strong><em>The Clockmaker's Paradox</em></strong> to life.
 
-<p align="center">
-<small><em>"Time is the most valuable resource we have."</em></small>
-</p>
+<br/>
+<em>"Time is the most valuable resource we have."</em>
+
+</div>
