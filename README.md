@@ -231,5 +231,23 @@ Enter choice (1-3) or 'music':
 </tr>
 </table>
 
-<h2> 🎖️ Acknowledgement 🎖️ </h2>
-We would like to respectfully thank our *Object-Oriented Programming Instructor*, **Ms. **Fatima Marie Agdon**, for her advice and sharing of her expertise in **Object-Oriented Programming** (OOP) best practices and principles. We also thank our teammates for their collaboration, commitment, and hard work in finishing this task. 
+<h2 align="center"> ⏱️ Acknowledgements ⏱️ </h2>
+
+<p align="center">
+We extend our sincere gratitude to <strong>Ms. Fatima Marie Agdon</strong>, our Object-Oriented Programming instructor,<br/>
+for her invaluable guidance, expertise, and mentorship throughout this project.
+</p>
+
+<p align="center">
+Her instruction in OOP principles and best practices has been instrumental in shaping<br/>
+this project and our development as programmers.
+</p>
+
+<p align="center">
+We also acknowledge the collaborative efforts of our team members,<br/>
+whose dedication, creativity, and commitment brought <em>The Clockmaker's Paradox</em> to life.
+</p>
+
+<p align="center">
+<small><em>"Time is the most valuable resource we have."</em></small>
+</p>
