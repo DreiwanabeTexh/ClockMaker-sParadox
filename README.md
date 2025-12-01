@@ -52,7 +52,7 @@ public void reduceDays(int days);
 ```
 * `Scene` hides title, narrative, and choices with getters only.<br/>
 
-
+<h1> 🧬 Inheritance</h1>
 The project implements a practical inheritance hierarchy where concrete classes extend an abstract base class. The Choice and Scene classes inherit directly from the abstract GameEntity class. This design provides three key benefits:. <br/>
 <br/>
 
